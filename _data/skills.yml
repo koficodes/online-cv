@@ -1,15 +1,21 @@
 - skill:
   name: Scala, Play, Slick
-  level: 
+  level:
 - skill:
-  name: Javascript (ES6,jQuery, Vuejs, React)
-  level: 
+  name: Python & Django
+  level:
+- skill:
+  name: PHP & Laravel
+  level:
 - skill:
   name: HTML5 & CSS3
-  level: 
-- skill:
-  name: PHP, Laravel
   level:
-- skill: Databases
+- skill:
+  name: Javascript(ES6,jQuery, Vuejs, React)
+  level:  
+- skill:
   name: Mysql, Posgresql, SQlite
+  level:
+- skill:
+  name: AWS,Heroku,CI(Travis CI, Bitbucket pipline)
   level: 
