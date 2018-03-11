@@ -1,5 +1,5 @@
 - skill:
-  name: Scala, Play, Slick
+  name: Scala, Play & Slick
   level:
 - skill:
   name: Python & Django
@@ -11,11 +11,14 @@
   name: HTML5 & CSS3
   level:
 - skill:
-  name: Javascript(ES6,jQuery, Vuejs, React)
+  name: Javascript (ES6, jQuery, Vuejs, React)
   level:  
 - skill:
-  name: Mysql, Posgresql, SQlite
+  name: MySql, Posgresql, SQlite
   level:
 - skill:
-  name: AWS,Heroku,CI(Travis CI, Bitbucket pipline)
+  name: AWS, Heroku, CI(Travis CI, Bitbucket pipline)
+  level:
+- skill:
+  name: Machine Learning (Scikit learn, tensforlow)
   level: 
