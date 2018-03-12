@@ -17,10 +17,10 @@
   role: Senior Software Engineer
   time: 2016 - 2017
   company: Automasters Ltd
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
+  details: "https://www.vehicleduty.com
+ Worked in a team to implement and support Auto masters' vehicle duty automation platform. <br>
+ Refining data sets to be used on the production system platform.<br>
+ Built systems to automate data upload and download from the systems platform." <br>
 - experience:
   role: Software Engineer
   time: 2015 - 2016
