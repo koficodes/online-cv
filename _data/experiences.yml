@@ -1,7 +1,7 @@
 - experience:
   role: Lead Software Engineer
   time: 2017 - 2018
-  company: Octodisk
+  company: '<a href="http://octodisk.com" target="_blank">Octodisk</a>'
   details: "Led the implementation of a couple of startup MVPs to help streamline
   the supply chain process of the pharmaceutical industry in Ghana. <br>
   Worked with Pharmaceutical domain expert to transform complex ideas into usable software products.<br>
@@ -10,13 +10,13 @@
 - experience:
   role: Software Engineer (Contract)
   time: 2017 (3 months)
-  company: Devless
+  company: '<a href="http://devless.io" target="_blank">Octodisk</a>'
   details: "Contracted to build an E-commerce module for the devless back-end as a service platform. <br>
   This serviced as a base for users of the platform to easily add E-commerce functionality to thier platform"
 - experience:
   role: Senior Software Engineer
   time: 2016 - 2017
-  company: Automasters Ltd
+  company: Automasters Ltd 
   details: "
    Worked in a team to implement and support Automasters' vehicle duty automation platform. <br>
    Refined data sets to be used on the production system platform.<br>
@@ -24,5 +24,5 @@
 - experience:
   role: Software Engineer
   time: 2015 - 2016
-  company: '<a href="#" target="_blank">Yame Services Ltd</a>'
+  company: '<a href="http://yameservices.com" target="_blank">Yame Services Ltd</a>'
   details: '<a href="#" target="_blank">download this free resume/CV template here</a>'
