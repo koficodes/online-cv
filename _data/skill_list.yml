@@ -9,6 +9,6 @@
 - group: Continous Integration
   skills: Travis CI, bitbucket pipline
 - group: Development Environment & Tools
-  skills: *unix, git, vagrant, docker, Test (pytest, scalatest, Jasmine, Mocha)
+  skills: "*unix, git, vagrant, docker, Test (pytest, scalatest, Jasmine, Mocha)"
 - group: Machine Learning & Data Analytics
   skills: scikit-learn, tensorflow, numpy, pandas, R, Shiny, tableau
