@@ -2,11 +2,11 @@ projects:
   - project:
     title: Apaa  (open source)
     link: "http://apaa-gh.herokuapp.com"
-    tagline: "A platform for connecting skilled labors to job opportunities"
+    tagline: "A platform for connecting skilled labors to job opportunities."
   - project:
     title: Pharmanode 
     link: "http://thepharmanode.com/"
-    tagline: "PharmaNode is a web application that enables retailers to re-stock their pharmacies by ordering products online from multiple wholesalers anytime"
+    tagline: "PharmaNode is a web application that enables retailers to re-stock their pharmacies by ordering products online from multiple wholesalers anytime."
   - project:
     title: Devless Core & JS SDK (open source)
     link: "https://github.com/DevlessTeam"
@@ -15,8 +15,8 @@ projects:
     title: Slackbot (open source)
     link: "https://github.com/devcongress/slackbot"
     tagline: 'Built  a slackbot to send daily motivational messages to 
-    <a href="http://www.devcongress.org/" target="_blank">Devcongress</a> developer community on slack'
+    <a href="http://www.devcongress.org/" target="_blank">Devcongress</a> developer community on slack.'
   - project:
     title: Notify (open source)
     link: "https://github.com/EDDYMENS/notify"
-    tagline: "A notification module for devless back-end as a service platform. This made it possible to send notifactions through multiple channels such as email, SMS etc using Twilio and Sendgrid API"
+    tagline: "A notification module for devless back-end as a service platform. This made it possible to send notifactions through multiple channels such as email, SMS etc using Twilio and Sendgrid API."
