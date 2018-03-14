@@ -1,14 +1,14 @@
 - group: Back-end
-  skills: Python (Django, Django Rest Framework), Scala (Play,Slick), PHP (Laravel)
+  skills: Python (Django, Django Rest Framework), Scala (Play, Slick), PHP (Laravel)
 - group: Front-end
   skills: HTML5, CSS3, Javascript(ES6, jquery, Vuejs, React)
 - group: Databases
   skills: Postgresql, MySql, SQlite
 - group: Cloud Platform
-  skills: AWS,Heroku
+  skills: AWS, Heroku
 - group: Continous Integration
   skills: Travis CI, bitbucket pipline
 - group: Development Environment & Tools
-  skills: *unix, git, vagrant, docker, Test (pytest, scalatest, Jasmine, Mocha)
+  skills: "*unix, git, vagrant, docker, Test (pytest, scalatest, Jasmine, Mocha)"
 - group: Machine Learning & Data Analytics
-  skills: scikit-learn, tensorflow, numpy, pandas, R, Shiny, tableau
+  skills: scikit-learn, Tensorflow, numpy, pandas, R, Shiny, Tableau

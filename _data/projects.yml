@@ -1,23 +1,22 @@
-intro: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
-  sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
 projects:
   - project:
-    title: Velocity
-    link: "#hook"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    title: Apaa  (open source)
+    link: "http://apaa-gh.herokuapp.com"
+    tagline: "A platform for connecting skilled labors to job opportunities"
   - project:
-    title: DevStudio
-    link: "#"
-    tagline: "A responsive website template designed to help web developers/designers market their services."
+    title: Pharmanode 
+    link: "http://thepharmanode.com/"
+    tagline: "PharmaNode is a web application that enables retailers to re-stock their pharmacies by ordering products online from multiple wholesalers anytime"
   - project:
-    title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+    title: Devless Core & JS SDK (open source)
+    link: "https://github.com/DevlessTeam"
+    tagline: "Built unit and integration test suit for the devless Core and refactored the Js sdk to make it more modular and readerble."
   - project:
-    title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+    title: Slackbot (open source)
+    link: "https://github.com/devcongress/slackbot"
+    tagline: 'Built  a slackbot to send daily motivational messages to 
+    <a href="http://www.devcongress.org/" target="_blank">Devcongress</a> developer community on slack'
   - project:
-    title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+    title: Notify (open source)
+    link: "https://github.com/EDDYMENS/notify"
+    tagline: "A notification module for devless back-end as a service platform. This made it possible to send notifactions through multiple channels such as email, SMS etc using Twilio and Sendgrid API"
