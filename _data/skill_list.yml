@@ -11,7 +11,7 @@
 - group: Continous Integration
   skills: Travis CI, bitbucket pipline
 - group: Development Environment & Tools
-  skills: "*unix, git, vagrant, docker, Test (PHPunit)"
+  skills: "*unix, git, composer, webpack, npm, vagrant, docker, Test (PHPunit)"
 - group: "Familiar with: "
   skills: Python (Django, Django rest framework, celery), Scala, Machine Learning.
 - group: "Principles, Paradigms, Concepts"
