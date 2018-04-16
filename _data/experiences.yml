@@ -27,4 +27,9 @@
   company: '<a href="http://yameservices.com" target="_blank">Yame Services Ltd</a>'
   details: "Worked with a success team to develop web and mobile software products for clients.<br>
   Worked on products that require payments, notifications and data aggregation"
+- experience:
+  role: Freelance Software Developer
+  time: 2012 - 2015
+  company: 'Indepent Contractor'
+  details: "Contracted by client to provide wide range of software solutions such co-operate websites, redesigning of old websites to be more responsive and SEO improvements."
   

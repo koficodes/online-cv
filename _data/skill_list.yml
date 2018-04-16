@@ -1,14 +1,19 @@
 - group: Back-end
-  skills: Python (Django, Django Rest Framework), Scala (Play, Slick), PHP (Laravel)
+  skills: PHP (Laravel, Codeigniter)
 - group: Front-end
   skills: HTML5, CSS3, Javascript(ES6, jquery, Vuejs, React)
 - group: Databases
   skills: Postgresql, MySql, SQlite
+- group: Cache Systems
+  skills: Memcached, Redis
 - group: Cloud Platform
   skills: AWS, Heroku
 - group: Continous Integration
   skills: Travis CI, bitbucket pipline
 - group: Development Environment & Tools
-  skills: "*unix, git, vagrant, docker, Test (pytest, scalatest, Jasmine, Mocha)"
-- group: Machine Learning & Data Analytics
-  skills: scikit-learn, Tensorflow, numpy, pandas, R, Shiny, Tableau
+  skills: "*unix, git, vagrant, docker, Test (PHPunit)"
+- group: "Familiar with: "
+  skills: Python (Django, Django rest framework, celery), Scala, Machine Learning.
+- group: "Principles, Paradigms, Concepts"
+  skills: SOLID, DRY, TDD, OOP, Clean Architecture, Refactoring.
+
