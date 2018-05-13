@@ -17,7 +17,8 @@ about: False # set to False or comment line if you want to remove the "How to us
 name: Paul Karikari
 tagline: Software Engineer
 pic: 'bio-photo.jpg'  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: 'A well-grounded full-stack engineer with a taste for building quality software products. Constant learner and a track record of solving problems with technology. 
+summary: 'A well-grounded full-stack engineer with a taste for building quality software products.  
+Constant learner and a track record of solving problems with technology. 
 Extensive experience in implementing complex software projects to make life better for clients and Users.'
 
 #sidebar links
