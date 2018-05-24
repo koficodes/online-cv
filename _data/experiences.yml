@@ -2,13 +2,12 @@
   role: Full-Stack Engineer
   time: 2018
   company: '<a href="http://apptosucceed.com" target="_blank">AppToSucceed</a>, USA stamford CT.'
-  details: "Volunteerng my skill set for good as a remote Full Stack engineer at www.ApptoSucceed.org which is an NGO based 
-  in U.S working with tools and technologies such as PHP,Angular,JIRA,slack ,heroku etc and 
+  details: "Volunteerng my skill set for good as a remote Full Stack engineer at www.ApptoSucceed.org which is an NGO based in U.S working with tools and technologies such as PHP, Angular ,JIRA, slack ,heroku etc and 
   using agile methodology such as SCRUM with a dedicated Certified SCRUM master."
 - experience:
   role: Lead Software Engineer
   time: 2017 - 2018
-  company: '<a href="http://octodisk.com" target="_blank">Octodisk</a>'
+  company: '<a href="http://octodisk.com" target="_blank">Octodisk</a>, Remote'
   details: "Led the implementation of a couple of startup MVPs to help streamline
   the supply chain process of the pharmaceutical industry in Ghana. <br>
   Worked with Pharmaceutical domain expert to transform complex ideas into usable software products.<br>
@@ -16,7 +15,7 @@
 - experience:
   role: Software Engineer (Contract)
   time: 2017 (3 months)
-  company: '<a href="http://devless.io" target="_blank">Devless</a>'
+  company: '<a href="http://devless.io" target="_blank">Devless</a>, Remote'
   details: "Contracted to build an E-commerce module for the devless back-end as a service platform. <br>
   This served as a base for users of the platform to easily add E-commerce functionality to thier platform."
 - experience:
