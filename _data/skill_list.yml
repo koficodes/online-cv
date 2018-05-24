@@ -13,7 +13,7 @@
 - group: Development Environment & Tools
   skills: "*unix, git, composer, webpack, npm, vagrant, docker, Test (PHPunit)"
 - group: "Familiar with: "
-  skills: Ruby, Python (Django, Django rest framework, celery), Scala, Machine Learning.
+  skills: Ruby, Python (Django), Nodejs, Scala, Machine Learning.
 - group: "Principles, Paradigms and Concepts"
   skills: SOLID, DRY, TDD, OOP, Clean Architecture, Refactoring.
 
