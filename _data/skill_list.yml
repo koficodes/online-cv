@@ -1,5 +1,5 @@
 - group: Back-end
-  skills: PHP (Laravel, Codeigniter)
+  skills: PHP (Laravel, Codeigniter), Restful API
 - group: Front-end
   skills: HTML5, CSS3, Javascript(ES6, jquery, Vuejs, React)
 - group: Databases
@@ -13,7 +13,7 @@
 - group: Development Environment & Tools
   skills: "*unix, git, composer, webpack, npm, vagrant, docker, Test (PHPunit)"
 - group: "Familiar with: "
-  skills: Python (Django, Django rest framework, celery), Scala, Machine Learning.
-- group: "Principles, Paradigms, Concepts"
+  skills: Ruby, Python (Django, Django rest framework, celery), Scala, Machine Learning.
+- group: "Principles, Paradigms and Concepts"
   skills: SOLID, DRY, TDD, OOP, Clean Architecture, Refactoring.
 
