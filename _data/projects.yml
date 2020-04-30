@@ -1,22 +1,31 @@
 projects:
   - project:
-    title: Apaa  (open source)
+    title: Data Lake with Apache Spark and  amazon s3
+    link: "https://github.com/paulkarikari/Data-lake-with-apache-spark-and-s3"
+    tagline: "Data lake for the analysis of user activity of a music streaming"
+  - project:
+    title: ETL Pipline and Data Warehousing on Amazon Redshift
+    link: "https://github.com/paulkarikari/ETL-pipeline-and-data-warehouse-on-redshift"
+    tagline: "Data warehouse on Amazon Redshift for user activity data."
+  - project:
+    title: Chest xray image classification using tensorflow
+    link: "https://github.com/paulkarikari/chest-x-ray-image-classification-using-tensorflow"
+    tagline: "The goal of this project is to classify Chest X-ray images as normal(healthy) or 
+              Pneumonia cases using Convolutional neural networks."
+  - project:
+    title: Sentiment analysis
+    link: "https://github.com/paulkarikari/LSTM-sentiment-analysis-with-tensorflow-keras-api"
+    tagline: "Using LSTM for Sentiment analysis with Tensorflow keras api"
+  - project:
+    title: Deploy Deep Learning models to production on Amazon Sagemaker
+    link: "https://github.com/paulkarikari/sentiment_analysis_deployment"
+    tagline: "Build ,Train and Deploy Deep Learning models on Sagemaker"
+  - project:
+    title: Apaa
     link: "http://apaa-gh.herokuapp.com"
     tagline: "A platform for connecting skilled labors to job opportunities."
   - project:
-    title: Pharmanode 
-    link: "http://thepharmanode.com/"
-    tagline: "PharmaNode is a web application that enables retailers to re-stock their pharmacies by ordering products online from multiple wholesalers anytime."
-  - project:
-    title: Devless Core & JS SDK (open source)
+    title: Devless Core & JS SDK
     link: "https://github.com/DevlessTeam"
-    tagline: "Built unit and integration test suit for the devless Core and refactored the Js sdk to make it more modular and readerble."
-  - project:
-    title: Slackbot (open source)
-    link: "https://github.com/devcongress/slackbot"
-    tagline: 'Built  a slackbot to send daily motivational messages to 
-    <a href="http://www.devcongress.org/" target="_blank">Devcongress</a> developer community on slack.'
-  - project:
-    title: Notify (open source)
-    link: "https://github.com/EDDYMENS/notify"
-    tagline: "A notification module for devless back-end as a service platform. This made it possible to send notifactions through multiple channels such as email, SMS etc using Twilio and Sendgrid API."
+    tagline: "Built unit and integration test suit for the devless Core and refactored the Js sdk to make it more modular and readable."
+  

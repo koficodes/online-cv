@@ -1,9 +1,21 @@
 - experience:
-  role: Full-Stack Engineer (Voluntary)
-  time: 2018
-  company: '<a href="http://apptosucceed.com" target="_blank">AppToSucceed</a>, USA stamford CT.'
-  details: "Volunteering my skill set for good as a remote Full Stack engineer at www.ApptoSucceed.org which is an NGO based in U.S working with tools and technologies such as PHP, Angular ,JIRA, slack ,heroku etc and 
-  using agile methodology such as SCRUM with a dedicated Certified SCRUM master. This keeps my skill set sharp and up to date with the ever changing technological industry."
+  role: Senior Software Engineer
+  time: 2018-2020
+  company: '<a href="http://dashboard.lu" target="_blank">Dashboard.lu</a> Luxembourg'
+  details: "
+            - Built ETL pipelines for various data sources for visualization. <br>
+            - Built and maintained applications on a fleet of servers on AWS. <br>
+            - Rewrote the finance visualization core package to make the code base much more 
+              clean, &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; modular and maintainable using best practices such as DRY, SOLID and 
+              refactoring methods in &nbsp;&nbsp;
+              (https://martinfowler.com/books/refactoring.html) <br>
+            - Served as the Technical expert in client engagement meetings and project proposals.<br>
+
+            - Took an initiative to create an onboarding process to onboard newly hired software engineers.<br>
+
+            - Mentored new developers to come up to speed with our product development.<br>
+
+            - Interviewed and approved new software engineers to be hired. <br>"
 - experience:
   role: Lead Software Engineer
   time: 2017 - 2018
@@ -32,9 +44,4 @@
   company: '<a href="http://yameservices.com" target="_blank">Yame Services Ltd</a>'
   details: "Worked with a success team to develop web and mobile software products for clients.<br>
   Worked on products that require payments, notifications and data aggregation"
-- experience:
-  role: Freelance Software Developer
-  time: 2012 - 2015
-  company: 'Independent Contractor'
-  details: "Contracted by client to provide wide range of software solutions such co-operate websites, redesigning of old websites to be more responsive and SEO improvements."
   

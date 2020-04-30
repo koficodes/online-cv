@@ -1,0 +1,50 @@
+{% if site.data.certifications %}
+{% if site.certifications_in_main %}
+
+<section class="section educations-section">
+  <h2 class="section-title"><i class="fa fa-graduation-cap"></i>Certifications</h2>
+  {% for certifications in site.data.certifications %}
+  <div class="item">
+
+    <div class="meta">
+
+      <div class="upper-row">
+        <h3 class="degree">{{ certifications.degree }}</h3>
+        <div class="time">{{ certifications.time }}</div>
+      </div>
+      <!--//upper-row-->
+
+      <div class="university">{{ certifications.university }}</div>
+    </div>
+    <!--//meta-->
+
+    {% if certifications.details %}
+    <div class="details">
+      <p>{{ certifications.details }}</p>
+    </div>
+    <!--//details-->
+    {% endif %}
+  </div>
+  <!--//item-->
+  {% endfor %}
+
+</section>
+<!--//section-->
+{% else %}
+<div class="education-container container-block">
+
+  <h2 class="container-block-title">Certifications</h2>
+
+  {% for certifications in site.data.certifications %}
+  <div class="item">
+    <h4 class="degree">{{ certifications.degree }}</h4>
+    <h5 class="meta">{{ certifications.university }}</h5>
+    <div class="time">{{ certifications.time }}</div>
+  </div>
+  <!--//item-->
+  {% endfor %}
+
+</div>
+<!--//education-container-->
+{% endif %}
+{% endif %}

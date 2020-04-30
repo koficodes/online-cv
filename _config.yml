@@ -1,6 +1,6 @@
 # Site Settings
-title: Paul karikari (koficodes) | Resume | CV
-url: 'https://koficodes.github.io/'
+title: Paul karikari| Resume | CV
+url: 'https://paulkarikari.github.io/'
 baseurl: '/online-cv' #change it according to your repository name
 about: False # set to False or comment line if you want to remove the "How to use?" in the sidebar
 
@@ -15,20 +15,28 @@ about: False # set to False or comment line if you want to remove the "How to us
 
 #Profile information
 name: Paul Karikari
-tagline: Software Engineer
+tagline: "Software Engineer,     
+Deep Learning and Data Engineering"
 pic: 'bio-photo.jpg'  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: 'A well-grounded Full-stack engineer with a taste for building quality software products
-Constant learner and a track record of solving problems with technology. 
-Team player and Extensive experience in implementing complex software projects to make life better for clients and Users.'
+summary: "As a senior software engineer, I have had experience working in various roles in the tech industry.
+I have built scalable software products ranging from web applications to AI( deep learning) enabled applications as well as data pipelines for data-centered products.
+<br>
+I have a strong understanding of deep learning algorithms with keen interest and passion for building intelligent systems with deep learning.
+I'm familiar with various deep learning techniques such as DNN, CNN, LSTM, etc used in solving problems in Computer Vision, NLP, and Time-series prediction.
+<br>
+I have a solid grasp of the entire machine learning workflow, and I have built data pipelines to get data from various data sources to the expected form for data science and machine learning use cases.
+I maintain high data quality standards by including data quality checks in the pipelines I build.
+I'm the Founder and Tech community builder at <a href='https://www.meetup.com/Python-Luxembourg/' target='_blank'>PyLuxembourg</a>
+"
 
 #sidebar links
 email: paulkarikari1@gmail.com
-phone: +39 351 025 7888
-website: koficodes.github.io #do not add http://
+phone: +352 621 752 087
+website: paulkarikari.com #do not add http://
 linkedin: paulkarikari
-github: koficodes
+github: paulkarikari
 twitter: '@KofiCodes'
-location: Camerino, Italy
+location: Luxembourg, Europe
 #Update all the sections by editing the files inside _data folder.
 
 # uncomment the next line, if you want the education section displayed in main instead of the sidebar
