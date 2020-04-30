@@ -1,14 +1,16 @@
-- group: Back-end
-  skills: Python (Django, Django), PHP (Laravel)
-- group: Front-end
-  skills: HTML5, CSS3, Javascript(ES6, jquery, Vuejs, Reactjs)
+- group: Languages
+  skills: Python, Scala, Go, C++, Javascript
+- group: Cloud Infrastructure
+  skills: AWS(EC2, S3, Lamda, API gateway, redshift, EMR, Sagemaker), Heroku
 - group: Databases
-  skills: Postgresql, MySql, SQlite
-- group: Cloud Platform
-  skills: AWS, Heroku
+  skills: Postgres, MySQL, Dynamo DB, AWS RDS
 - group: Continous Integration
-  skills: Travis CI, bitbucket pipline
-- group: Development Environment & Tools
-  skills: "*unix, git,webpack,vagrant, docker, Test (pytest, scalatest, Jasmine, Mocha)"
-- group: Machine Learning & Data Analytics
-  skills: scikit-learn, Tensorflow, numpy, pandas, R, Shiny, Tableau
+  skills:  Travis CI, Bitbucket Pipelines.
+- group: Frameworks & libraries
+  skills:  Django, React, Vuejs
+- group: Data pipeline tools
+  skills:  Spark , Kafka, Airflow
+- group: Deep learning
+  skills: Tensorflow, Keras, PyTorch
+- group: Other data tools
+  skills: pandas, NumPy, Matplotlib, Sci-kit learn

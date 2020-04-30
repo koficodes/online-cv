@@ -1,4 +1,14 @@
 - education:
+  degree: Deep Learning Nanodegree
+  university: Udacity
+  time: 
+  details: ""
+- education:
+  degree: Data Engineering Nanodegree
+  university: Udacity
+  time:
+  details: ""
+- education:
   degree: MSc in Computer Science
   university: University of Camerino, Italy
   time: 2017 - 2019
