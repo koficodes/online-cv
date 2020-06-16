@@ -1,9 +1,9 @@
 - group: Languages
-  skills: Python, Scala, Go, C++, Javascript
+  skills: Python, Java, Scala, Go, C++, Javascript
 - group: Cloud Infrastructure
   skills: AWS(EC2, S3, Lamda, API gateway, redshift, EMR, Sagemaker), Heroku
 - group: Databases
-  skills: Postgres, MySQL, Dynamo DB, AWS RDS
+  skills: Postgres, MySQL, Dynamo DB, AWS RDS, Cassandra
 - group: Continous Integration
   skills:  Travis CI, Bitbucket Pipelines.
 - group: Frameworks & libraries
