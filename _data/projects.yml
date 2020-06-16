@@ -2,7 +2,7 @@ projects:
   - project:
     title: Data Lake with Apache Spark and  amazon s3
     link: "https://github.com/paulkarikari/Data-lake-with-apache-spark-and-s3"
-    tagline: "Data lake for the analysis of user activity of a music streaming"
+    tagline: "Data lake for the analysis of user activity of a music streaming app"
   - project:
     title: ETL Pipline and Data Warehousing on Amazon Redshift
     link: "https://github.com/paulkarikari/ETL-pipeline-and-data-warehouse-on-redshift"
