@@ -12,5 +12,5 @@
   skills:  Spark , Kafka, Airflow
 - group: Deep learning
   skills: Tensorflow, Keras, PyTorch
-- group: Other data tools
-  skills: pandas, NumPy, Matplotlib, Sci-kit learn
+- group: Other tools
+  skills: pandas, NumPy, Matplotlib, Sci-kit learn, Docker

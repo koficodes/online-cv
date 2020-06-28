@@ -3,6 +3,7 @@
   time: 2018-2020
   company: '<a href="http://dashboard.lu" target="_blank">Dashboard.lu</a> Luxembourg'
   details: "
+            - Built Restful API backends using django rest framework.<br>
             - Built ETL pipelines for various data sources for visualization. <br>
             - Built and maintained applications on a fleet of servers on AWS. <br>
             - Rewrote the finance visualization core package to make the code base much more 
